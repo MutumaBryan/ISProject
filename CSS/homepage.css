@@ -1,0 +1,86 @@
+
+#nbs
+{
+   
+}
+html, body {
+    background-color: #F3F3F3;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    position: absolute;
+    min-height: 100%;
+}
+
+.contents {
+    height: 150px;
+}
+
+footer {
+    background-color: rgb(34, 42, 53);
+    position: absolute;
+    bottom: 0; /* absolutely bottom */
+    width: 100%;
+}
+
+.clearfix {
+    padding: 0px;
+}
+
+.Dyk
+{
+    width: 300px;
+    
+}
+#Dyk{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    margin-left: 30px; 
+    width: 300px;
+    margin-top: 10px;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+
+.UE
+{
+    width: 300px;
+    
+}
+#UE{
+    text-align: center;
+    background-color: white;
+      position: absolute;
+    margin-left: 75%; 
+     margin-top: 10px;
+    width: 300px;
+    position: absolute;
+    padding: 25px;
+    border-radius: 5px;
+}
+
+
+.livefeed
+{
+    width: 300px;
+   
+}
+#livefeed
+{
+    text-align: center;
+    background-color: white;
+    margin-left: 25.5%; 
+     position: absolute;
+      margin-top: 10px;
+    width: 650px;
+    padding: 25px;
+    border-radius: 5px;
+}
+h2{
+    color: white;
+}
+
